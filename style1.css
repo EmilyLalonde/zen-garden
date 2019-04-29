@@ -4,8 +4,8 @@ body {
 
 nav {
   background-color: #92dfe5;
-  border-bottom: 1px solid #408da7;
-  height: 10vh;
+  border-bottom: 2px solid #408da7;
+  height: 72px;
 }
 
 ul{
@@ -27,7 +27,7 @@ main {
   background-image: linear-gradient( rgba(0,0,0,0.3), rgba(0, 0, 0, 0.3) ),url(images/park.jpg);
   background-repeat: no-repeat;
   background-size: cover;
-  /* height: 40vh; */
+  height: 500px;
 }
 
 h1 {
@@ -64,10 +64,19 @@ section {
 
 article {
   display: inline-block;
+  margin-left: 9%;
+  height: 700px;
 }
 
 .article-imgs {
   border-radius: 50%;
+  height: 200px;
+  margin-left: 15%;
+  width: 200px;
+}
+
+h2 {
+  text-align: center;
 }
 
 .column1 {
@@ -79,10 +88,11 @@ article {
 }
 
 .column3 {
-  
+
 }
 
 p {
+  font-size: 22px;
   height: 400px;
   width: 300px; 
 }
