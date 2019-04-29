@@ -30,8 +30,55 @@ main {
   /* height: 40vh; */
 }
 
+h1 {
+  color: white;
+  text-align: center;
+}
+
+.main-img {
+  border: 2px solid #408da7;
+  border-radius: 50%;
+  height: 150px;
+  margin-left: 45%;
+  text-align: center;
+  width: 150px;
+}
+
+form {
+  color: white;
+  text-align: center;
+}
+
+input {
+  text-align: center;
+}
+
+/* button{
+  display: block;
+  text-align: center;
+} */
+
 section {
  height: 40vh;
+}
+
+.article-imgs {
+  border-radius: 50%;
+  height: 150px;
+  width: 150px;
+}
+
+.column1 {
+  float: left;
+}
+
+.column3 {
+  float: right;
+}
+
+p {
+  height: 400px;
+  width: 300px;
 }
 
 footer {
