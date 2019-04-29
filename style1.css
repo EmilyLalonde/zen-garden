@@ -131,11 +131,13 @@ p {
 
 footer {
   background-color: #408da7;
+  height: 200px;
 }
 
 h3 {
   color: white;
-  padding-top: 10px;
+  font-weight: 100;
+  padding-top: 40px;
   text-align: center;
 }
 
@@ -144,5 +146,5 @@ h3 {
 }
 
 .footer-logos {
-  margin: 0 5px 10px 0;
+  margin: 20px 10px 10px 0;
 }
