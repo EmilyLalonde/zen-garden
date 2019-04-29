@@ -59,29 +59,48 @@ input {
 } */
 
 section {
- height: 40vh;
+ display: inline;
+}
+
+article {
+  display: inline-block;
 }
 
 .article-imgs {
   border-radius: 50%;
-  height: 150px;
-  width: 150px;
 }
 
 .column1 {
-  float: left;
+  
+}
+
+.column2 {
+  
 }
 
 .column3 {
-  float: right;
+  
 }
 
 p {
   height: 400px;
-  width: 300px;
+  width: 300px; 
 }
 
 footer {
   background-color: #408da7;
-  height: 10vh;
+}
+
+h3 {
+  color: white;
+  text-align: center;
+}
+
+#twitter-logo {
+  margin-left: 42%;
+}
+
+.footer-logos {
+  margin-right: 5px;
+  margin-bottom: 5px;
 }
