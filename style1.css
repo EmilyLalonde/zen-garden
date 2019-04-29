@@ -1,13 +1,33 @@
+body {
+  margin: 0;
+}
+
 nav {
   background-color: #92dfe5;
+  border-bottom: 1px solid #408da7;
   height: 10vh;
+}
+
+ul{
+  float: right;
+}
+
+li {
+  display: inline;
+  text-decoration: none;
+  margin-right: 10px;
+}
+
+.logo-img {
+  height: 50px;
+  width: 50px;
 }
 
 main {
   background-image: linear-gradient( rgba(0,0,0,0.3), rgba(0, 0, 0, 0.3) ),url(images/park.jpg);
   background-repeat: no-repeat;
   background-size: cover;
-  height: 40vh;
+  /* height: 40vh; */
 }
 
 section {
