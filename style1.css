@@ -1,0 +1,20 @@
+nav {
+  background-color: #92dfe5;
+  height: 10vh;
+}
+
+main {
+  background-image: linear-gradient( rgba(0,0,0,0.3), rgba(0, 0, 0, 0.3) ),url(images/park.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 40vh;
+}
+
+section {
+ height: 40vh;
+}
+
+footer {
+  background-color: #408da7;
+  height: 10vh;
+}
