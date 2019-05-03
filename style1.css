@@ -1,6 +1,5 @@
 html {
   box-sizing: border-box;
-  height: 100vh;
 }
 
 body {
@@ -111,8 +110,9 @@ article {
   border: 4px solid #408da7;
   border-radius: 50%;
   height: 230px;
-  margin-left: 25%;
+  margin-left: 20%;
   width: 230px;
+  /* vertical-align: middle; */
 }
 
 h2 {
@@ -177,7 +177,7 @@ h3 {
 } */
 
 
-@media screen and (max-width: 600px) {
+/* @media screen and (min-width: 600px) {
   
   h1 {
     padding: 0;
@@ -207,5 +207,5 @@ h3 {
     margin-left: 10%;
   }
 
-}
+} */
 
