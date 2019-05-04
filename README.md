@@ -10,3 +10,4 @@
 ![image](https://user-images.githubusercontent.com/47184994/57184848-2f00e300-6e7f-11e9-8b94-a9ca860f39c5.png)
 
 ### My Comp 2:
+![image](https://user-images.githubusercontent.com/47184994/57184865-67a0bc80-6e7f-11e9-9050-bbfb64205d5a.png)
