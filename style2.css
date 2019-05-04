@@ -23,7 +23,7 @@ nav {
   height: 150px;
   margin-top: 30px;
   margin-left: 30px;
-  margin-bottom: 60px;
+  margin-bottom: 100px;
   width: 150px;
 }
 
@@ -31,14 +31,14 @@ li {
   font-size: 22px;
   font-weight: 700;
   list-style-type: none;
-  margin-bottom: 55px;
+  margin-bottom: 60px;
 }
 
 main {
   width:85%;
   background: #3d3544;
   float:right;
-  height: 450px;
+  height: 500px;
 }
 
 h1 {
@@ -46,7 +46,7 @@ h1 {
   float: right;
   font-size: 44px;
   font-weight: 100;
-  margin-right: 170px;
+  margin-right: 115px;
   margin-top: 130px;
 }
 
@@ -59,15 +59,15 @@ span {
   border-radius: 50%;
   margin-left: 50px;
   margin-top: 20px;
-  height: 400px;
-  width: 400px;
+  height: 450px;
+  width: 450px;
   float: left;
 }
 
 input {
   border: 1px solid black;
   border-radius: 2px;
-  height: 50px;
+  height: 60px;
   width: 500px;
   margin-left: 9%;  
   margin-bottom: 20px;
@@ -78,7 +78,7 @@ label {
   display: block;
   font-size: 20px;
   font-weight: 100;
-  margin-left: 46%; 
+  margin-left: 50%; 
 }
 
 .name-btn {
@@ -86,13 +86,11 @@ label {
   border: none;
   border-radius: 2px;
   display: block;
-  height: 55px;
+  height: 65px;
   font-size: 22px;
-  font-weight: 600;
-  margin-left: 46%; 
+  font-weight: 700;
+  margin-left: 50%; 
   width: 500px;
-  /* float: right; */
-  /* margin-bottom: 220px; */
 }
 
 section {
@@ -101,19 +99,15 @@ section {
   float:right;
 }
 
-/* article {
-  margin-left: 30px;
-} */
-
 h2 {
   margin-left: 30px;
 }
 
 p {
-  height: 230px;
-  width: 65%;
-  margin-right: 170px;
+  width: 800px;
+  margin-right: 20px;
   float: right;
+  font-size: 22px;
 }
 
 article {
@@ -131,8 +125,13 @@ article {
 
 .article-btns {
   display: block;
-  margin-left: 1000px;
+  margin-left: 860px;
   margin-bottom: 20px;
+  margin-bottom: 70px;
+  width: 200px;
+  height: 55px;
+  background-color: #3d3544;
+  color: white;
 }
 
 .column3 {
