@@ -23,7 +23,7 @@ nav {
   height: 150px;
   margin-top: 30px;
   margin-left: 30px;
-  margin-bottom: 50px;
+  margin-bottom: 60px;
   width: 150px;
 }
 
@@ -31,33 +31,46 @@ li {
   font-size: 22px;
   font-weight: 700;
   list-style-type: none;
-  margin-bottom: 20px;
+  margin-bottom: 55px;
 }
 
 main {
   width:85%;
   background: #3d3544;
   float:right;
+  height: 450px;
 }
 
 h1 {
   color: white;
   float: right;
+  font-size: 44px;
+  font-weight: 100;
+  margin-right: 170px;
+  margin-top: 130px;
+}
+
+span {
+  font-weight: 700;
 }
 
 .main-img {
   border: 8px solid #9b969c;
   border-radius: 50%;
   margin-left: 50px;
-  margin-top: 40px;
+  margin-top: 20px;
+  height: 400px;
+  width: 400px;
+  float: left;
 }
 
 input {
   border: 1px solid black;
   border-radius: 2px;
   height: 50px;
-  width: 32%;
-  margin-left: 60%;  
+  width: 500px;
+  margin-left: 9%;  
+  margin-bottom: 20px;
 }
 
 label {
@@ -65,7 +78,7 @@ label {
   display: block;
   font-size: 20px;
   font-weight: 100;
-  margin-left: 60%; 
+  margin-left: 46%; 
 }
 
 .name-btn {
@@ -76,8 +89,10 @@ label {
   height: 55px;
   font-size: 22px;
   font-weight: 600;
-  margin-left: 60%; 
-  width: 32%;
+  margin-left: 46%; 
+  width: 500px;
+  /* float: right; */
+  /* margin-bottom: 220px; */
 }
 
 section {
