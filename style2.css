@@ -100,14 +100,17 @@ section {
 }
 
 h2 {
-  margin-left: 30px;
+  margin-left: 50px;
+  margin-top: 60px;
 }
 
 p {
   width: 800px;
   margin-right: 20px;
   float: right;
-  font-size: 22px;
+  font-size: 23px;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 
 article {
@@ -119,19 +122,18 @@ article {
 .article-imgs {
   border: 5px solid #9b969c;
   border-radius: 50%; 
-  height: 200px;
-  width: 200px;
+  height: 260px;
+  width: 260px;
 }
 
 .article-btns {
-  display: block;
   margin-left: 860px;
-  margin-bottom: 20px;
-  margin-bottom: 70px;
+  margin-bottom: 60px;
   width: 200px;
   height: 55px;
   background-color: #3d3544;
   color: white;
+  font-size: 22px;
 }
 
 .column3 {
@@ -147,8 +149,20 @@ footer {
  
 h3 {
   color: white;
+  margin-left: 700px;
+  display: inline;
+  padding-top: 50px;
+  margin-right: 20px;
 }
 
-/* .footer-logos {
-  float: right;
-}  */
+ /* #twitter-logo {
+  margin-left: 600px;
+} */
+
+#facebook-logo {
+  margin-left: 955px;
+} 
+
+.footer-logos {
+  margin-top: 30px;
+}
