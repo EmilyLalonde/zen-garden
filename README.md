@@ -1,5 +1,7 @@
 # Dog Party 2.0!
 
+The goal for this project was to experiment with the diverse ways in which you can style css when you have a semantic and well layed out HTML. It is also a project where the basic use of JavaScript is implimented so we can get used to using it. In this project I have completed both comps to the best of my ability while also finishing this project through phase 3 with DOM manipulation.
+
 ### Original Comp 1:
 ![image](https://user-images.githubusercontent.com/47184994/56932121-bc1ef300-6a9f-11e9-8c24-bb5ebcaff98e.png)
 
