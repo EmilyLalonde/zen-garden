@@ -12,18 +12,18 @@ body {
 }
 
 nav {
-  width:15%;
   background:#9b969c;
-  height:100vh;
-  float:left;
   display: fixed;
+  float:left;
+  height:100vh;
+  width:15%;
 }
 
 .logo-img {
   height: 150px;
-  margin-top: 30px;
-  margin-left: 30px;
   margin-bottom: 100px;
+  margin-left: 30px;
+  margin-top: 30px;
   width: 150px;
 }
 
@@ -35,10 +35,10 @@ li {
 }
 
 main {
-  width:85%;
   background: #3d3544;
   float:right;
   height: 500px;
+  width:85%;
 }
 
 h1 {
@@ -57,20 +57,20 @@ span {
 .main-img {
   border: 8px solid #9b969c;
   border-radius: 50%;
+  float: left;
+  height: 450px;
   margin-left: 60px;
   margin-top: 20px;
-  height: 450px;
   width: 450px;
-  float: left;
 }
 
 input {
   border: 1px solid black;
   border-radius: 2px;
   height: 60px;
-  width: 550px;
-  margin-left: 8%;  
   margin-bottom: 20px;
+  margin-left: 8%;  
+  width: 550px;
 }
 
 label {
@@ -87,16 +87,16 @@ label {
   border-radius: 2px;
   display: block;
   height: 65px;
-  font-size: 22px;
+  font-size: 26px;
   font-weight: 700;
   margin-left: 50%; 
   width: 550px;
 }
 
 section {
-  width:85%;
   background:white;
   float:right;
+  width:85%;
 }
 
 h2 {
@@ -105,19 +105,20 @@ h2 {
 }
 
 p {
-  width: 750px;
-  margin-right: 20px;
+  color: #3d3544;
+  
   float: right;
   font-size: 23px;
-  margin-top: 0;
   margin-bottom: 0;
-  color: #3d3544;
+  margin-right: 20px;
+  margin-top: 0;
+  width: 750px;
 }
 
 article {
   border-bottom: 2px solid #9b969c;
-  width: 90%;
   margin-left: 5%;
+  width: 90%;
 }
 
 .article-imgs {
@@ -128,13 +129,13 @@ article {
 }
 
 .article-btns {
-  margin-left: 860px;
-  margin-bottom: 60px;
-  width: 200px;
-  height: 55px;
   background-color: #3d3544;
   color: white;
   font-size: 22px;
+  height: 65px;
+  margin-left: 860px;
+  margin-bottom: 60px;
+  width: 250px;
 }
 
 .column3 {
@@ -142,32 +143,27 @@ article {
 }
 
 footer {
-  width:85%;
   background: #3d3544;
   float:right;
   height: 200px;
+  width:85%;
 }
  
 h3 {
   color: white;
-  margin-left: 500px;
   display: inline;
-  /* padding-top: 50px; */
-  margin-right: 40px;
   font-size: 36px;
+  margin-left: 500px;
+  margin-right: 40px;
 }
-
- /* #twitter-logo {
-  margin-left: 600px;
-} */
 
 #facebook-logo {
   margin-left: 965px;
 } 
 
 .footer-logos {
-  margin-top: 30px;
   height: 50px;
+  margin-top: 30px;
   width: 50px;
 }
 
