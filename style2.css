@@ -44,9 +44,9 @@ main {
 h1 {
   color: white;
   float: right;
-  font-size: 44px;
+  font-size: 48px;
   font-weight: 100;
-  margin-right: 115px;
+  margin-right: 70px;
   margin-top: 130px;
 }
 
@@ -57,7 +57,7 @@ span {
 .main-img {
   border: 8px solid #9b969c;
   border-radius: 50%;
-  margin-left: 50px;
+  margin-left: 60px;
   margin-top: 20px;
   height: 450px;
   width: 450px;
@@ -68,8 +68,8 @@ input {
   border: 1px solid black;
   border-radius: 2px;
   height: 60px;
-  width: 500px;
-  margin-left: 9%;  
+  width: 550px;
+  margin-left: 8%;  
   margin-bottom: 20px;
 }
 
@@ -90,7 +90,7 @@ label {
   font-size: 22px;
   font-weight: 700;
   margin-left: 50%; 
-  width: 500px;
+  width: 550px;
 }
 
 section {
@@ -105,12 +105,13 @@ h2 {
 }
 
 p {
-  width: 800px;
+  width: 750px;
   margin-right: 20px;
   float: right;
   font-size: 23px;
   margin-top: 0;
   margin-bottom: 0;
+  color: #3d3544;
 }
 
 article {
@@ -149,10 +150,11 @@ footer {
  
 h3 {
   color: white;
-  margin-left: 700px;
+  margin-left: 500px;
   display: inline;
-  padding-top: 50px;
-  margin-right: 20px;
+  /* padding-top: 50px; */
+  margin-right: 40px;
+  font-size: 36px;
 }
 
  /* #twitter-logo {
@@ -160,9 +162,24 @@ h3 {
 } */
 
 #facebook-logo {
-  margin-left: 955px;
+  margin-left: 965px;
 } 
 
 .footer-logos {
   margin-top: 30px;
+  height: 50px;
+  width: 50px;
+}
+
+#twitter-logo {
+  height: 60px;
+  width: 60px;
+}
+
+#instagram-logo {
+  margin-left: 10px;
+}
+
+#linkedin-logo {
+  margin-left: 20px;
 }

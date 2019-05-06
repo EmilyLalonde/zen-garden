@@ -2,9 +2,16 @@ var nameBtn = document.querySelector('.name-btn');
 var nameInput = document.querySelector('.name-input');
 var alteredName = document.querySelector('.alter-name');
 var articleBtns = document.querySelector('.article-btns');
+var titleInput = document.querySelector('.title-change');
+var bodyInput = document.querySelector('.body-change');
+var titleOne = document.querySelector('.title-1');
+var titleTwo = document.querySelector('.title-2');
+var titleThree = document.querySelector('.title-3');
+var changeBtn = document.querySelector('.change-btn');
 
 nameBtn.addEventListener('click', changeName);
 document.addEventListener('click', changeAppearance);
+// changeBtn.addEventListener('click', changeColumns);
 
 function changeName (e) {
   e.preventDefault();
@@ -21,3 +28,10 @@ function changeAppearance (e) {
     }
   }
 }
+
+// function changeColumns (e) {
+//   // var changeOne = document.querySelector('.how-change')
+//   if(e.target && e.tagrget.className == 'how-change') {
+//     titleOne.innerText = titleInput.value;
+//   }
+// }
