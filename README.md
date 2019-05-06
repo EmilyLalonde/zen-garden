@@ -8,6 +8,9 @@ The goal for this project was to experiment with the diverse ways in which you c
 ### My Comp 1:
 ![image](https://user-images.githubusercontent.com/47184994/57052194-09879580-6c43-11e9-8066-8a248af52837.png)
 
+### Mobile Comp 1:
+![image](https://user-images.githubusercontent.com/47184994/57234675-66d26c80-6fde-11e9-8f33-09ceb2e4318b.png)
+
 ### Original Comp 2:
 ![image](https://user-images.githubusercontent.com/47184994/57184848-2f00e300-6e7f-11e9-8b94-a9ca860f39c5.png)
 
